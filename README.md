@@ -1,16 +1,32 @@
-## Hi there 👋 I´m Oscar Ivan a Electronics and Computer Systems Specialist
+## Hi there 👋 I´m Oscar Ivan
 
-<!--
-**Oscar-I-M-G/Oscar-I-M-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Electronics and Computer Systems Specialist
+<br/>
+👩‍🏭 3D printing enthusiast and App developer
+### ⚙️ Language and Tools 🔧
+  <img align="left" alt="Python" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="C++" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" alt="git" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="left" alt="github" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="left" alt="swift" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img align="left" alt="linux" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="left" alt="kotlin" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  
+  <br/>
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+  <br/>
+  
+  ![Ivans Github Stats](https://github-readme-stats.vercel.app/api?username=Oscar-I-M-G&show_icons=true&theme=gruvbox)
+  
+  <br/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Oscar-I-M-G&theme=gruvbox&border_radius=4.5)
+          
+          
+          
+          
+          
+          
