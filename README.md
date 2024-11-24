@@ -1,9 +1,13 @@
-## Hi there 👋 I´m Oscar Ivan
+# Hi there 👋 I´m Oscar Ivan
 
 👨‍💻 Electronics and Computer Systems Specialist
 <br/>
 👩‍🏭 3D printing enthusiast and App developer
+
+---
+
 ### ⚙️ Language and Tools 🔧
+
   <img align="left" alt="Python" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="left" alt="C++" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="git" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -13,10 +17,12 @@
   <img align="left" alt="kotlin" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   
   <br/>
-
-### Stats
-
   <br/>
+  
+#
+
+### Stats 💹
+
   <br/>
   
   ![Ivans Github Stats](https://github-readme-stats.vercel.app/api?username=Oscar-I-M-G&show_icons=true&theme=gruvbox)
@@ -24,8 +30,7 @@
   <br/>
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Oscar-I-M-G&theme=gruvbox&border_radius=4.5)
-          
-          
+  #
           
           
           
