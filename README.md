@@ -23,8 +23,8 @@
 
 ### Stats 💹
   
-  [![roadmap.sh](https://roadmap.sh/card/tall/6742bed75434bf319a8e3c4f?variant=dark&roadmaps=ios%2Ccomputer-science%2Cdatastructures-and-algorithms%2Csystem-design)](https://roadmap.sh)
-
+  [![roadmap.sh](https://roadmap.sh/card/wide/6742bed75434bf319a8e3c4f?variant=dark&roadmaps=ios%2Ccomputer-science%2Cdatastructures-and-algorithms%2Csystem-design)](https://roadmap.sh)
+  
   <br/>
   
   ![Ivans Github Stats](https://github-readme-stats.vercel.app/api?username=Oscar-I-M-G&show_icons=true&theme=gruvbox)
