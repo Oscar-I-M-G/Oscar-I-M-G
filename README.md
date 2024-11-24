@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I´m Oscar Ivan a Electronics and Computer Systems Specialist
 
 <!--
 **Oscar-I-M-G/Oscar-I-M-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
